@@ -4,6 +4,7 @@ import './App.css';
 import Card from './Card';
 import Jumbotron from './Jumbotron';
 import List from './List';
+
 class App extends React.Component
 {
   render(){//funcion que se va a ejectutar para decicr que funcion va mostrar en html "render"
